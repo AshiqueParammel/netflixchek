@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/netflixchek/static/css/main.1779899f.css",
+    "main.js": "/netflixchek/static/js/main.4ff81709.js",
+    "index.html": "/netflixchek/index.html",
+    "main.1779899f.css.map": "/netflixchek/static/css/main.1779899f.css.map",
+    "main.4ff81709.js.map": "/netflixchek/static/js/main.4ff81709.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1779899f.css",
+    "static/js/main.4ff81709.js"
+  ]
+}
